@@ -1,0 +1,2044 @@
+Calculated Km/hr is: 73
+Approx speed is: 73
+Road is showing as: Undefined
+v4: lat. 52.4820905
+v4: lon. -6.8010503
+v4: speed. 20.775791
+Previous and current locations are: 52.4829499 -6.7998677 1576832377409 52.4820905 -6.8010503 1576832383348
+Distance is approx: 0.12467455634286319
+seconds in the speed function is 5939
+Distance is - 0.12467455634286319
+Calculated Km/hr is: 76
+Approx speed is: 76
+Road is showing as: Undefined
+v4: lat. 52.481385
+v4: lon. -6.8020448
+v4: speed. 20.414932
+Previous and current locations are: 52.4820905 -6.8010503 1576832383348 52.481385 -6.8020448 1576832388343
+Distance is approx: 0.1033859725380498
+seconds in the speed function is 4995
+Distance is - 0.1033859725380498
+Calculated Km/hr is: 75
+Approx speed is: 75
+Road is showing as: Undefined
+v4: lat. 52.4807396
+v4: lon. -6.8030838
+v4: speed. 19.343521
+Previous and current locations are: 52.481385 -6.8020448 1576832388343 52.4807396 -6.8030838 1576832393378
+Distance is approx: 0.10049869486635006
+seconds in the speed function is 5035
+Distance is - 0.10049869486635006
+Calculated Km/hr is: 72
+Approx speed is: 72
+Road is showing as: Undefined
+v4: lat. 52.4800775
+v4: lon. -6.8040484
+v4: speed. 20.21256
+Previous and current locations are: 52.4807396 -6.8030838 1576832393378 52.4800775 -6.8040484 1576832398333
+Distance is approx: 0.09842014166500977
+seconds in the speed function is 4955
+Distance is - 0.09842014166500977
+Calculated Km/hr is: 72
+Approx speed is: 72
+Road is showing as: Undefined
+v4: lat. 52.4793257
+v4: lon. -6.8049877
+v4: speed. 20.117283
+Previous and current locations are: 52.4800775 -6.8040484 1576832398333 52.4793257 -6.8049877 1576832403403
+Distance is approx: 0.10504157187047479
+seconds in the speed function is 5070
+Distance is - 0.10504157187047479
+Calculated Km/hr is: 75
+Approx speed is: 75
+Road is showing as: Undefined
+v4: lat. 52.4785927
+v4: lon. -6.8059192
+v4: speed. 20.404486
+Previous and current locations are: 52.4793257 -6.8049877 1576832403403 52.4785927 -6.8059192 1576832408466
+Distance is approx: 0.10306229425607707
+seconds in the speed function is 5063
+Distance is - 0.10306229425607707
+Calculated Km/hr is: 73
+Approx speed is: 73
+Road is showing as: Undefined
+v4: lat. 52.4778997
+v4: lon. -6.8068075
+v4: speed. 19.990728
+Previous and current locations are: 52.4785927 -6.8059192 1576832408466 52.4778997 -6.8068075 1576832413497
+Distance is approx: 0.09775606924505566
+seconds in the speed function is 5031
+Distance is - 0.09775606924505566
+Calculated Km/hr is: 70
+Approx speed is: 70
+Road is showing as: Undefined
+v4: lat. 52.4771352
+v4: lon. -6.8077288
+v4: speed. 21.117075
+Previous and current locations are: 52.4778997 -6.8068075 1576832413497 52.4771352 -6.8077288 1576832418419
+Distance is approx: 0.10544479770983559
+seconds in the speed function is 4922
+Distance is - 0.10544479770983559
+Calculated Km/hr is: 77
+Approx speed is: 77
+Road is showing as: Undefined
+v4: lat. 52.476521
+v4: lon. -6.808502
+v4: speed. 21.24448
+Previous and current locations are: 52.4771352 -6.8077288 1576832418419 52.476521 -6.808502 1576832423022
+Distance is approx: 0.08605731216772769
+seconds in the speed function is 4603
+Distance is - 0.08605731216772769
+Calculated Km/hr is: 67
+Approx speed is: 67
+Road is showing as: Undefined
+v4: lat. 52.4758227
+v4: lon. -6.8095217
+v4: speed. 20.310635
+Previous and current locations are: 52.476521 -6.808502 1576832423022 52.4758227 -6.8095217 1576832427436
+Distance is approx: 0.10391173443921753
+seconds in the speed function is 4414
+Distance is - 0.10391173443921753
+Calculated Km/hr is: 85
+Approx speed is: 85
+Road is showing as: Undefined
+v4: lat. 52.4750844
+v4: lon. -6.8106488
+v4: speed. 18.42622
+Previous and current locations are: 52.4758227 -6.8095217 1576832427436 52.4750844 -6.8106488 1576832433420
+Distance is approx: 0.11209723588323647
+seconds in the speed function is 5984
+Distance is - 0.11209723588323647
+Calculated Km/hr is: 67
+Approx speed is: 67
+Road is showing as: Undefined
+v4: lat. 52.4744947
+v4: lon. -6.8115409
+v4: speed. 18.992918
+Previous and current locations are: 52.4750844 -6.8106488 1576832433420 52.4744947 -6.8115409 1576832438364
+Distance is approx: 0.08916103236033428
+seconds in the speed function is 4944
+Distance is - 0.08916103236033428
+Calculated Km/hr is: 65
+Approx speed is: 65
+Road is showing as: Undefined
+v4: lat. 52.4739799
+v4: lon. -6.8123628
+v4: speed. 16.266005
+Previous and current locations are: 52.4744947 -6.8115409 1576832438364 52.4739799 -6.8123628 1576832444441
+Distance is approx: 0.07984413758255118
+seconds in the speed function is 6077
+Distance is - 0.07984413758255118
+Calculated Km/hr is: 47
+Approx speed is: 47
+Road is showing as: Undefined
+v4: lat. 52.4735776
+v4: lon. -6.8129976
+v4: speed. 15.403386
+Previous and current locations are: 52.4739799 -6.8123628 1576832444441 52.4735776 -6.8129976 1576832447389
+Distance is approx: 0.062043605590333076
+seconds in the speed function is 2948
+Distance is - 0.062043605590333076
+Calculated Km/hr is: 76
+Approx speed is: 76
+Road is showing as: Undefined
+v4: lat. 52.4730396
+v4: lon. -6.813896
+v4: speed. 14.747492
+Previous and current locations are: 52.4735776 -6.8129976 1576832447389 52.4730396 -6.813896 1576832453420
+Distance is approx: 0.08532810047373988
+seconds in the speed function is 6031
+Distance is - 0.08532810047373988
+Calculated Km/hr is: 51
+Approx speed is: 51
+Road is showing as: Undefined
+v4: lat. 52.4726772
+v4: lon. -6.8145059
+v4: speed. 14.143846
+Previous and current locations are: 52.4730396 -6.813896 1576832453420 52.4726772 -6.8145059 1576832457387
+Distance is approx: 0.05770679744659071
+seconds in the speed function is 3967
+Distance is - 0.05770679744659071
+Calculated Km/hr is: 52
+Approx speed is: 52
+Road is showing as: Undefined
+v4: lat. 52.4722634
+v4: lon. -6.8152881
+v4: speed. 14.35961
+Previous and current locations are: 52.4726772 -6.8145059 1576832457387 52.4722634 -6.8152881 1576832462400
+Distance is approx: 0.0701689021083763
+seconds in the speed function is 5013
+Distance is - 0.0701689021083763
+Calculated Km/hr is: 50
+Approx speed is: 50
+Road is showing as: Undefined
+v4: lat. 52.4718069
+v4: lon. -6.8160885
+v4: speed. 14.838132
+Previous and current locations are: 52.4722634 -6.8152881 1576832462400 52.4718069 -6.8160885 1576832467443
+Distance is approx: 0.07426508167088065
+seconds in the speed function is 5043
+Distance is - 0.07426508167088065
+Calculated Km/hr is: 53
+Approx speed is: 53
+Road is showing as: Undefined
+v4: lat. 52.4712767
+v4: lon. -6.8168143
+v4: speed. 14.512521
+Previous and current locations are: 52.4718069 -6.8160885 1576832467443 52.4712767 -6.8168143 1576832472400
+Distance is approx: 0.07675993444886062
+seconds in the speed function is 4957
+Distance is - 0.07675993444886062
+Calculated Km/hr is: 56
+Approx speed is: 56
+Road is showing as: Undefined
+v4: lat. 52.4707263
+v4: lon. -6.8177328
+v4: speed. 14.401531
+Previous and current locations are: 52.4712767 -6.8168143 1576832472400 52.4707263 -6.8177328 1576832478374
+Distance is approx: 0.08726772998420482
+seconds in the speed function is 5974
+Distance is - 0.08726772998420482
+Calculated Km/hr is: 53
+Approx speed is: 53
+Road is showing as: Undefined
+v4: lat. 52.4703315
+v4: lon. -6.8184365
+v4: speed. 12.305996
+Previous and current locations are: 52.4707263 -6.8177328 1576832478374 52.4703315 -6.8184365 1576832483415
+Distance is approx: 0.06479855123510032
+seconds in the speed function is 5041
+Distance is - 0.06479855123510032
+Calculated Km/hr is: 46
+Approx speed is: 46
+Road is showing as: Undefined
+v4: lat. 52.4699776
+v4: lon. -6.8190149
+v4: speed. 11.739072
+Previous and current locations are: 52.4703315 -6.8184365 1576832483415 52.4699776 -6.8190149 1576832488462
+Distance is approx: 0.0555272556737021
+seconds in the speed function is 5047
+Distance is - 0.0555272556737021
+Calculated Km/hr is: 40
+Approx speed is: 40
+Road is showing as: Undefined
+v4: lat. 52.4697128
+v4: lon. -6.8194989
+v4: speed. 11.718195
+Previous and current locations are: 52.4699776 -6.8190149 1576832488462 52.4697128 -6.8194989 1576832492470
+Distance is approx: 0.04406391652590126
+seconds in the speed function is 4008
+Distance is - 0.04406391652590126
+Calculated Km/hr is: 40
+Approx speed is: 40
+Road is showing as: Undefined
+v4: lat. 52.4693734
+v4: lon. -6.8201324
+v4: speed. 10.67383
+Previous and current locations are: 52.4697128 -6.8194989 1576832492470 52.4693734 -6.8201324 1576832497348
+Distance is approx: 0.05714364767853917
+seconds in the speed function is 4878
+Distance is - 0.05714364767853917
+Calculated Km/hr is: 42
+Approx speed is: 42
+Road is showing as: Undefined
+v4: lat. 52.4690757
+v4: lon. -6.8207435
+v4: speed. 10.40283
+Previous and current locations are: 52.4693734 -6.8201324 1576832497348 52.4690757 -6.8207435 1576832502391
+Distance is approx: 0.05300060136947499
+seconds in the speed function is 5043
+Distance is - 0.05300060136947499
+Calculated Km/hr is: 38
+Approx speed is: 38
+Road is showing as: Undefined
+v4: lat. 52.4688343
+v4: lon. -6.821399
+v4: speed. 10.198057
+Previous and current locations are: 52.4690757 -6.8207435 1576832502391 52.4688343 -6.821399 1576832507424
+Distance is approx: 0.05188335709230013
+seconds in the speed function is 5033
+Distance is - 0.05188335709230013
+Calculated Km/hr is: 37
+Approx speed is: 37
+Road is showing as: Undefined
+v4: lat. 52.4684866
+v4: lon. -6.8220833
+v4: speed. 10.549923
+Previous and current locations are: 52.4688343 -6.821399 1576832507424 52.4684866 -6.8220833 1576832513386
+Distance is approx: 0.060358403776426754
+seconds in the speed function is 5962
+Distance is - 0.060358403776426754
+Calculated Km/hr is: 36
+Approx speed is: 36
+Road is showing as: Undefined
+v4: lat. 52.468226
+v4: lon. -6.8225654
+v4: speed. 11.006036
+Previous and current locations are: 52.4684866 -6.8220833 1576832513386 52.468226 -6.8225654 1576832517448
+Distance is approx: 0.04365781627432119
+seconds in the speed function is 4062
+Distance is - 0.04365781627432119
+Calculated Km/hr is: 39
+Approx speed is: 39
+Road is showing as: Undefined
+v4: lat. 52.4679229
+v4: lon. -6.8231963
+v4: speed. 11.480609
+Previous and current locations are: 52.468226 -6.8225654 1576832517448 52.4679229 -6.8231963 1576832522462
+Distance is approx: 0.05442520439628984
+seconds in the speed function is 5014
+Distance is - 0.05442520439628984
+Calculated Km/hr is: 39
+Approx speed is: 39
+Road is showing as: Undefined
+v4: lat. 52.4675964
+v4: lon. -6.8239358
+v4: speed. 13.722604
+Previous and current locations are: 52.4679229 -6.8231963 1576832522462 52.4675964 -6.8239358 1576832527439
+Distance is approx: 0.061863815896404044
+seconds in the speed function is 4977
+Distance is - 0.061863815896404044
+Calculated Km/hr is: 45
+Approx speed is: 45
+Road is showing as: Undefined
+v4: lat. 52.4672598
+v4: lon. -6.8248593
+v4: speed. 14.699482
+Previous and current locations are: 52.4675964 -6.8239358 1576832527439 52.4672598 -6.8248593 1576832532481
+Distance is approx: 0.07289715902005622
+seconds in the speed function is 5042
+Distance is - 0.07289715902005622
+Calculated Km/hr is: 52
+Approx speed is: 52
+Road is showing as: Undefined
+v4: lat. 52.4670814
+v4: lon. -6.8258667
+v4: speed. 13.52044
+Previous and current locations are: 52.4672598 -6.8248593 1576832532481 52.4670814 -6.8258667 1576832537380
+Distance is approx: 0.07106425974089606
+seconds in the speed function is 4899
+Distance is - 0.07106425974089606
+Calculated Km/hr is: 52
+Approx speed is: 52
+Road is showing as: Undefined
+v4: lat. 52.4671263
+v4: lon. -6.8268267
+v4: speed. 13.890278
+Previous and current locations are: 52.4670814 -6.8258667 1576832537380 52.4671263 -6.8268267 1576832542424
+Distance is approx: 0.06522038272143908
+seconds in the speed function is 5044
+Distance is - 0.06522038272143908
+Calculated Km/hr is: 47
+Approx speed is: 47
+Road is showing as: Undefined
+v4: lat. 52.467384
+v4: lon. -6.8281388
+v4: speed. 16.922125
+Previous and current locations are: 52.4671263 -6.8268267 1576832542424 52.467384 -6.8281388 1576832548423
+Distance is approx: 0.09338409837246206
+seconds in the speed function is 5999
+Distance is - 0.09338409837246206
+Calculated Km/hr is: 56
+Approx speed is: 56
+Road is showing as: Undefined
+v4: lat. 52.4678233
+v4: lon. -6.8294008
+v4: speed. 16.498333
+Previous and current locations are: 52.467384 -6.8281388 1576832548423 52.4678233 -6.8294008 1576832553464
+Distance is approx: 0.09845602861554435
+seconds in the speed function is 5041
+Distance is - 0.09845602861554435
+Calculated Km/hr is: 70
+Approx speed is: 70
+Road is showing as: Undefined
+v4: lat. 52.4679705
+v4: lon. -6.8304531
+v4: speed. 16.160973
+Previous and current locations are: 52.4678233 -6.8294008 1576832553464 52.4679705 -6.8304531 1576832557409
+Distance is approx: 0.07313499462253654
+seconds in the speed function is 3945
+Distance is - 0.07313499462253654
+Calculated Km/hr is: 67
+Approx speed is: 67
+Road is showing as: Undefined
+v4: lat. 52.4678371
+v4: lon. -6.8316421
+v4: speed. 15.660997
+Previous and current locations are: 52.4679705 -6.8304531 1576832557409 52.4678371 -6.8316421 1576832562457
+Distance is approx: 0.08189413932704295
+seconds in the speed function is 5048
+Distance is - 0.08189413932704295
+Calculated Km/hr is: 58
+Approx speed is: 58
+Road is showing as: Undefined
+v4: lat. 52.467476
+v4: lon. -6.8329027
+v4: speed. 15.566357
+Previous and current locations are: 52.4678371 -6.8316421 1576832562457 52.467476 -6.8329027 1576832572230
+Distance is approx: 0.0943585675273297
+seconds in the speed function is 9773
+Distance is - 0.0943585675273297
+Calculated Km/hr is: 35
+Approx speed is: 35
+v4: lat. 52.4670946
+v4: lon. -6.8335957
+v4: speed. 15.448713
+Previous and current locations are: 52.467476 -6.8329027 1576832572230 52.4670946 -6.8335957 1576832572789
+Distance is approx: 0.0632615567786005
+seconds in the speed function is 559
+Distance is - 0.0632615567786005
+Calculated Km/hr is: 407
+Approx speed is: 407
+Road is showing as: Undefined
+Road is showing as: Undefined
+v4: lat. 52.4664542
+v4: lon. -6.8344474
+v4: speed. 14.975644
+Previous and current locations are: 52.4670946 -6.8335957 1576832572789 52.4664542 -6.8344474 1576832580443
+Distance is approx: 0.09164498856635714
+seconds in the speed function is 7654
+Distance is - 0.09164498856635714
+Calculated Km/hr is: 43
+Approx speed is: 43
+Road is showing as: Undefined
+v4: lat. 52.4658638
+v4: lon. -6.8350504
+v4: speed. 15.659439
+Previous and current locations are: 52.4664542 -6.8344474 1576832580443 52.4658638 -6.8350504 1576832583589
+Distance is approx: 0.07731716090618086
+seconds in the speed function is 3146
+Distance is - 0.07731716090618086
+Calculated Km/hr is: 88
+Approx speed is: 88
+Road is showing as: Undefined
+v4: lat. 52.4652205
+v4: lon. -6.8355242
+v4: speed. 15.313255
+Previous and current locations are: 52.4658638 -6.8350504 1576832583589 52.4652205 -6.8355242 1576832589434
+Distance is approx: 0.07839910577766115
+seconds in the speed function is 5845
+Distance is - 0.07839910577766115
+Calculated Km/hr is: 48
+Approx speed is: 48
+Road is showing as: Undefined
+v4: lat. 52.4644577
+v4: lon. -6.836112
+v4: speed. 19.083076
+Previous and current locations are: 52.4652205 -6.8355242 1576832589434 52.4644577 -6.836112 1576832593959
+Distance is approx: 0.09369725622501837
+seconds in the speed function is 4525
+Distance is - 0.09369725622501837
+Calculated Km/hr is: 75
+Approx speed is: 75
+Road is showing as: Undefined
+v4: lat. 52.4636122
+v4: lon. -6.8369094
+v4: speed. 21.245415
+Previous and current locations are: 52.4644577 -6.836112 1576832593959 52.4636122 -6.8369094 1576832599182
+Distance is approx: 0.10842519114078213
+seconds in the speed function is 5223
+Distance is - 0.10842519114078213
+Calculated Km/hr is: 75
+Approx speed is: 75
+Road is showing as: Undefined
+v4: lat. 52.462979
+v4: lon. -6.8375254
+v4: speed. 19.928385
+Previous and current locations are: 52.4636122 -6.8369094 1576832599182 52.462979 -6.8375254 1576832605134
+Distance is approx: 0.08184339396869976
+seconds in the speed function is 5952
+Distance is - 0.08184339396869976
+Calculated Km/hr is: 50
+Approx speed is: 50
+Road is showing as: Undefined
+v4: lat. 52.4621628
+v4: lon. -6.8382454
+v4: speed. 20.87346
+Previous and current locations are: 52.462979 -6.8375254 1576832605134 52.4621628 -6.8382454 1576832607581
+Distance is approx: 0.10303050464317468
+seconds in the speed function is 2447
+Distance is - 0.10303050464317468
+Calculated Km/hr is: 152
+Approx speed is: 152
+Road is showing as: Undefined
+v4: lat. 52.4613188
+v4: lon. -6.8390227
+v4: speed. 21.381784
+Previous and current locations are: 52.4621628 -6.8382454 1576832607581 52.4613188 -6.8390227 1576832612426
+Distance is approx: 0.10760912311472325
+seconds in the speed function is 4845
+Distance is - 0.10760912311472325
+Calculated Km/hr is: 80
+Approx speed is: 80
+Road is showing as: Undefined
+v4: lat. 52.460341
+v4: lon. -6.8399869
+v4: speed. 20.488905
+Previous and current locations are: 52.4613188 -6.8390227 1576832612426 52.460341 -6.8399869 1576832618446
+Distance is approx: 0.12683598243768177
+seconds in the speed function is 6020
+Distance is - 0.12683598243768177
+Calculated Km/hr is: 76
+Approx speed is: 76
+Road is showing as: Undefined
+v4: lat. 52.4596461
+v4: lon. -6.8408804
+v4: speed. 20.195076
+Previous and current locations are: 52.460341 -6.8399869 1576832618446 52.4596461 -6.8408804 1576832623441
+Distance is approx: 0.09815488657360379
+seconds in the speed function is 4995
+Distance is - 0.09815488657360379
+Calculated Km/hr is: 71
+Approx speed is: 71
+Road is showing as: Undefined
+v4: lat. 52.4590853
+v4: lon. -6.8416024
+v4: speed. 20.363266
+Previous and current locations are: 52.4596461 -6.8408804 1576832623441 52.4590853 -6.8416024 1576832627443
+Distance is approx: 0.07925226528308842
+seconds in the speed function is 4002
+Distance is - 0.07925226528308842
+Calculated Km/hr is: 71
+Approx speed is: 71
+Road is showing as: Undefined
+v4: lat. 52.4582023
+v4: lon. -6.8426713
+v4: speed. 20.799284
+Previous and current locations are: 52.4590853 -6.8416024 1576832627443 52.4582023 -6.8426713 1576832633417
+Distance is approx: 0.12199998746305508
+seconds in the speed function is 5974
+Distance is - 0.12199998746305508
+Calculated Km/hr is: 74
+Approx speed is: 74
+Road is showing as: Undefined
+v4: lat. 52.4573837
+v4: lon. -6.8435276
+v4: speed. 20.906473
+Previous and current locations are: 52.4582023 -6.8426713 1576832633417 52.4573837 -6.8435276 1576832638432
+Distance is approx: 0.10793770173758378
+seconds in the speed function is 5015
+Distance is - 0.10793770173758378
+Calculated Km/hr is: 77
+Approx speed is: 77
+Road is showing as: Undefined
+v4: lat. 52.4566565
+v4: lon. -6.8445419
+v4: speed. 21.201092
+Previous and current locations are: 52.4573837 -6.8435276 1576832638432 52.4566565 -6.8445419 1576832643493
+Distance is approx: 0.10611646485815435
+seconds in the speed function is 5061
+Distance is - 0.10611646485815435
+Calculated Km/hr is: 75
+Approx speed is: 75
+Road is showing as: Undefined
+v4: lat. 52.4559759
+v4: lon. -6.8455034
+v4: speed. 19.358608
+Previous and current locations are: 52.4566565 -6.8445419 1576832643493 52.4559759 -6.8455034 1576832648443
+Distance is approx: 0.099854313869714
+seconds in the speed function is 4950
+Distance is - 0.099854313869714
+Calculated Km/hr is: 73
+Approx speed is: 73
+Road is showing as: Undefined
+v4: lat. 52.4553567
+v4: lon. -6.8463884
+v4: speed. 18.06933
+Previous and current locations are: 52.4559759 -6.8455034 1576832648443 52.4553567 -6.8463884 1576832654175
+Distance is approx: 0.09130081148641561
+seconds in the speed function is 5732
+Distance is - 0.09130081148641561
+Calculated Km/hr is: 57
+Approx speed is: 57
+Road is showing as: Undefined
+v4: lat. 52.4550614
+v4: lon. -6.8474642
+v4: speed. 18.592978
+Previous and current locations are: 52.4553567 -6.8463884 1576832654175 52.4550614 -6.8474642 1576832659492
+Distance is approx: 0.07994655598762915
+seconds in the speed function is 5317
+Distance is - 0.07994655598762915
+Calculated Km/hr is: 54
+Approx speed is: 54
+Road is showing as: Undefined
+v4: lat. 52.4548518
+v4: lon. -6.8488587
+v4: speed. 20.392221
+Previous and current locations are: 52.4550614 -6.8474642 1576832659492 52.4548518 -6.8488587 1576832663429
+Distance is approx: 0.09731914024205383
+seconds in the speed function is 3937
+Distance is - 0.09731914024205383
+Calculated Km/hr is: 89
+Approx speed is: 89
+Road is showing as: Undefined
+v4: lat. 52.4547865
+v4: lon. -6.8504702
+v4: speed. 20.833952
+Previous and current locations are: 52.4548518 -6.8488587 1576832663429 52.4547865 -6.8504702 1576832668452
+Distance is approx: 0.10943228234054836
+seconds in the speed function is 5023
+Distance is - 0.10943228234054836
+Calculated Km/hr is: 78
+Approx speed is: 78
+Road is showing as: Undefined
+v4: lat. 52.4546116
+v4: lon. -6.8516148
+v4: speed. 19.924248
+Previous and current locations are: 52.4547865 -6.8504702 1576832668452 52.4546116 -6.8516148 1576832672856
+Distance is approx: 0.07995636231764124
+seconds in the speed function is 4404
+Distance is - 0.07995636231764124
+Calculated Km/hr is: 65
+Approx speed is: 65
+Road is showing as: Undefined
+v4: lat. 52.4542478
+v4: lon. -6.8532034
+v4: speed. 19.56102
+Previous and current locations are: 52.4546116 -6.8516148 1576832672856 52.4542478 -6.8532034 1576832678450
+Distance is approx: 0.114990154655081
+seconds in the speed function is 5594
+Distance is - 0.114990154655081
+Calculated Km/hr is: 74
+Approx speed is: 74
+Road is showing as: Undefined
+v4: lat. 52.4538719
+v4: lon. -6.8542102
+v4: speed. 20.545362
+Previous and current locations are: 52.4542478 -6.8532034 1576832678450 52.4538719 -6.8542102 1576832682466
+Distance is approx: 0.08000503801600435
+seconds in the speed function is 4016
+Distance is - 0.08000503801600435
+Calculated Km/hr is: 72
+Approx speed is: 72
+Road is showing as: Undefined
+v4: lat. 52.4532089
+v4: lon. -6.8553483
+v4: speed. 21.487354
+Previous and current locations are: 52.4538719 -6.8542102 1576832682466 52.4532089 -6.8553483 1576832687429
+Distance is approx: 0.10668402336785149
+seconds in the speed function is 4963
+Distance is - 0.10668402336785149
+Calculated Km/hr is: 77
+Approx speed is: 77
+Road is showing as: Undefined
+v4: lat. 52.4523189
+v4: lon. -6.856534
+v4: speed. 20.673605
+Previous and current locations are: 52.4532089 -6.8553483 1576832687429 52.4523189 -6.856534 1576832694666
+Distance is approx: 0.12746751156971264
+seconds in the speed function is 7237
+Distance is - 0.12746751156971264
+Calculated Km/hr is: 63
+Approx speed is: 63
+Road is showing as: Undefined
+v4: lat. 52.45175
+v4: lon. -6.8572445
+v4: speed. 20.261005
+Previous and current locations are: 52.4523189 -6.856534 1576832694666 52.45175 -6.8572445 1576832697697
+Distance is approx: 0.07949347693972854
+seconds in the speed function is 3031
+Distance is - 0.07949347693972854
+Calculated Km/hr is: 94
+Approx speed is: 94
+Road is showing as: Undefined
+v4: lat. 52.4508246
+v4: lon. -6.8582953
+v4: speed. 20.89899
+Previous and current locations are: 52.45175 -6.8572445 1576832697697 52.4508246 -6.8582953 1576832704563
+Distance is approx: 0.1251300825080053
+seconds in the speed function is 6866
+Distance is - 0.1251300825080053
+Calculated Km/hr is: 66
+Approx speed is: 66
+Road is showing as: Undefined
+v4: lat. 52.4501254
+v4: lon. -6.8589548
+v4: speed. 16.87242
+Previous and current locations are: 52.4508246 -6.8582953 1576832704563 52.4501254 -6.8589548 1576832708663
+Distance is approx: 0.08967341923507376
+seconds in the speed function is 4100
+Distance is - 0.08967341923507376
+Calculated Km/hr is: 79
+Approx speed is: 79
+Road is showing as: Undefined
+v4: lat. 52.4496223
+v4: lon. -6.8593814
+v4: speed. 15.678914
+Previous and current locations are: 52.4501254 -6.8589548 1576832708663 52.4496223 -6.8593814 1576832712454
+Distance is approx: 0.06296763300253409
+seconds in the speed function is 3791
+Distance is - 0.06296763300253409
+Calculated Km/hr is: 60
+Approx speed is: 60
+Road is showing as: Undefined
+v4: lat. 52.4488521
+v4: lon. -6.8599489
+v4: speed. 15.241803
+Previous and current locations are: 52.4496223 -6.8593814 1576832712454 52.4488521 -6.8599489 1576832719466
+Distance is approx: 0.09387684536392586
+seconds in the speed function is 7012
+Distance is - 0.09387684536392586
+Calculated Km/hr is: 48
+Approx speed is: 48
+Road is showing as: Undefined
+v4: lat. 52.4484487
+v4: lon. -6.8603753
+v4: speed. 14.477768
+Previous and current locations are: 52.4488521 -6.8599489 1576832719466 52.4484487 -6.8603753 1576832723085
+Distance is approx: 0.05335580000249507
+seconds in the speed function is 3619
+Distance is - 0.05335580000249507
+Calculated Km/hr is: 53
+Approx speed is: 53
+Road is showing as: Undefined
+v4: lat. 52.4479624
+v4: lon. -6.861344
+v4: speed. 14.180183
+Previous and current locations are: 52.4484487 -6.8603753 1576832723085 52.4479624 -6.861344 1576832728498
+Distance is approx: 0.08504818665975863
+seconds in the speed function is 5413
+Distance is - 0.08504818665975863
+Calculated Km/hr is: 57
+Approx speed is: 57
+Road is showing as: Undefined
+v4: lat. 52.4478999
+v4: lon. -6.8623687
+v4: speed. 13.290058
+Previous and current locations are: 52.4479624 -6.861344 1576832728498 52.4478999 -6.8623687 1576832733727
+Distance is approx: 0.06978874478357724
+seconds in the speed function is 5229
+Distance is - 0.06978874478357724
+Calculated Km/hr is: 48
+Approx speed is: 48
+Road is showing as: Undefined
+v4: lat. 52.4479269
+v4: lon. -6.8633002
+v4: speed. 11.520318
+Previous and current locations are: 52.4478999 -6.8623687 1576832733727 52.4479269 -6.8633002 1576832743450
+Distance is approx: 0.06319720619837006
+seconds in the speed function is 9723
+Distance is - 0.06319720619837006
+Calculated Km/hr is: 23
+Approx speed is: 23
+v4: lat. 52.4482155
+v4: lon. -6.864121
+v4: speed. 11.562766
+Previous and current locations are: 52.4479269 -6.8633002 1576832743450 52.4482155 -6.864121 1576832743840
+Distance is approx: 0.06421627141075614
+seconds in the speed function is 390
+Distance is - 0.06421627141075614
+Calculated Km/hr is: 593
+Approx speed is: 593
+Road is showing as: Undefined
+Road is showing as: Undefined
+v4: lat. 52.4482306
+v4: lon. -6.8647364
+v4: speed. 7.938055
+Previous and current locations are: 52.4482155 -6.864121 1576832743840 52.4482306 -6.8647364 1576832748464
+Distance is approx: 0.041737793896483584
+seconds in the speed function is 4624
+Distance is - 0.041737793896483584
+Calculated Km/hr is: 32
+Approx speed is: 32
+Road is showing as: Undefined
+v4: lat. 52.4480211
+v4: lon. -6.864999
+v4: speed. 7.231875
+Previous and current locations are: 52.4482306 -6.8647364 1576832748464 52.4480211 -6.864999 1576832752574
+Distance is approx: 0.02931392711644754
+seconds in the speed function is 4110
+Distance is - 0.02931392711644754
+Calculated Km/hr is: 26
+Approx speed is: 26
+Road is showing as: Undefined
+v4: lat. 52.4476452
+v4: lon. -6.8651026
+v4: speed. 5.2871494
+Previous and current locations are: 52.4480211 -6.864999 1576832752574 52.4476452 -6.8651026 1576832759967
+Distance is approx: 0.04238176059624821
+seconds in the speed function is 7393
+Distance is - 0.04238176059624821
+Calculated Km/hr is: 21
+Approx speed is: 21
+Road is showing as: Undefined
+v4: lat. 52.4475259
+v4: lon. -6.8651839
+v4: speed. 1.1793978
+Previous and current locations are: 52.4476452 -6.8651026 1576832759967 52.4475259 -6.8651839 1576832763472
+Distance is approx: 0.01436374419939196
+seconds in the speed function is 3505
+Distance is - 0.01436374419939196
+Calculated Km/hr is: 15
+Approx speed is: 15
+Road is showing as: Undefined
+v4: lat. 52.4475532
+v4: lon. -6.8650862
+v4: speed. 0.7576955
+Previous and current locations are: 52.4475259 -6.8651839 1576832763472 52.4475532 -6.8650862 1576832769805
+Distance is approx: 0.0072837300392938585
+seconds in the speed function is 6333
+Distance is - 0.0072837300392938585
+Calculated Km/hr is: 4
+Approx speed is: 4
+Road is showing as: Undefined
+v4: lat. 52.4476218
+v4: lon. -6.8649751
+v4: speed. 1.9364738
+Previous and current locations are: 52.4475532 -6.8650862 1576832769805 52.4476218 -6.8649751 1576832773437
+Distance is approx: 0.010717507105285153
+seconds in the speed function is 3632
+Distance is - 0.010717507105285153
+Calculated Km/hr is: 11
+Approx speed is: 11
+Road is showing as: Undefined
+v4: lat. 52.4476418
+v4: lon. -6.8649439
+v4: speed. 0.95585805
+Previous and current locations are: 52.4476218 -6.8649751 1576832773437 52.4476418 -6.8649439 1576832779308
+Distance is approx: 0.0030673057755214173
+seconds in the speed function is 5871
+Distance is - 0.0030673057755214173
+Calculated Km/hr is: 2
+Approx speed is: 2
+Road is showing as: Undefined
+v4: lat. 52.4476407
+v4: lon. -6.8649518
+v4: speed. 0.11540323
+Previous and current locations are: 52.4476418 -6.8649439 1576832779308 52.4476407 -6.8649518 1576832784195
+Distance is approx: 0.0005535365231580634
+seconds in the speed function is 4887
+Distance is - 0.0005535365231580634
+Calculated Km/hr is: 0
+Approx speed is: 0
+Road is showing as: Undefined
+v4: lat. 52.447705
+v4: lon. -6.8648992
+v4: speed. 4.840689
+Previous and current locations are: 52.4476407 -6.8649518 1576832784195 52.447705 -6.8648992 1576832789436
+Distance is approx: 0.007988859517463785
+seconds in the speed function is 5241
+Distance is - 0.007988859517463785
+Calculated Km/hr is: 5
+Approx speed is: 5
+Road is showing as: Undefined
+v4: lat. 52.4480533
+v4: lon. -6.864689
+v4: speed. 9.201365
+Previous and current locations are: 52.447705 -6.8648992 1576832789436 52.4480533 -6.864689 1576832793453
+Distance is approx: 0.04126408566428308
+seconds in the speed function is 4017
+Distance is - 0.04126408566428308
+Calculated Km/hr is: 37
+Approx speed is: 37
+Road is showing as: Undefined
+v4: lat. 52.448435
+v4: lon. -6.8643401
+v4: speed. 9.81732
+Previous and current locations are: 52.4480533 -6.864689 1576832793453 52.448435 -6.8643401 1576832798473
+Distance is approx: 0.048582836041404856
+seconds in the speed function is 5020
+Distance is - 0.048582836041404856
+Calculated Km/hr is: 35
+Approx speed is: 35
+Road is showing as: Undefined
+v4: lat. 52.4486613
+v4: lon. -6.8637728
+v4: speed. 8.19629
+Previous and current locations are: 52.448435 -6.8643401 1576832798473 52.4486613 -6.8637728 1576832803467
+Distance is approx: 0.045946669721968696
+seconds in the speed function is 4994
+Distance is - 0.045946669721968696
+Calculated Km/hr is: 33
+Approx speed is: 33
+Road is showing as: Undefined
+v4: lat. 52.4485834
+v4: lon. -6.863097
+v4: speed. 10.30917
+Previous and current locations are: 52.4486613 -6.8637728 1576832803467 52.4485834 -6.863097 1576832808465
+Distance is approx: 0.04660866854127669
+seconds in the speed function is 4998
+Distance is - 0.04660866854127669
+Calculated Km/hr is: 34
+Approx speed is: 34
+Road is showing as: Undefined
+v4: lat. 52.4483476
+v4: lon. -6.8624083
+v4: speed. 10.518037
+Previous and current locations are: 52.4485834 -6.863097 1576832808465 52.4483476 -6.8624083 1576832815955
+Distance is approx: 0.05353142127881116
+seconds in the speed function is 7490
+Distance is - 0.05353142127881116
+Calculated Km/hr is: 26
+Approx speed is: 26
+Road is showing as: Undefined
+v4: lat. 52.4483357
+v4: lon. -6.8614415
+v4: speed. 10.193592
+Previous and current locations are: 52.4483476 -6.8624083 1576832815955 52.4483357 -6.8614415 1576832818474
+Distance is approx: 0.06553095214936655
+seconds in the speed function is 2519
+Distance is - 0.06553095214936655
+Calculated Km/hr is: 94
+Approx speed is: 94
+Road is showing as: Undefined
+v4: lat. 52.4484302
+v4: lon. -6.8606749
+v4: speed. 10.818574
+Previous and current locations are: 52.4483357 -6.8614415 1576832818474 52.4484302 -6.8606749 1576832826226
+Distance is approx: 0.053002386684390335
+seconds in the speed function is 7752
+Distance is - 0.053002386684390335
+Calculated Km/hr is: 25
+Approx speed is: 25
+Road is showing as: Undefined
+v4: lat. 52.4486561
+v4: lon. -6.8599256
+v4: speed. 11.642402
+Previous and current locations are: 52.4484302 -6.8606749 1576832826226 52.4486561 -6.8599256 1576832828476
+Distance is approx: 0.05665050502774236
+seconds in the speed function is 2250
+Distance is - 0.05665050502774236
+Calculated Km/hr is: 91
+Approx speed is: 91
+Road is showing as: Undefined
+v4: lat. 52.4490238
+v4: lon. -6.8594525
+v4: speed. 13.420061
+Previous and current locations are: 52.4486561 -6.8599256 1576832828476 52.4490238 -6.8594525 1576832833548
+Distance is approx: 0.05195573713009304
+seconds in the speed function is 5072
+Distance is - 0.05195573713009304
+Calculated Km/hr is: 37
+Approx speed is: 37
+Road is showing as: Undefined
+v4: lat. 52.4497448
+v4: lon. -6.8589876
+v4: speed. 14.8687315
+Previous and current locations are: 52.4490238 -6.8594525 1576832833548 52.4497448 -6.8589876 1576832838463
+Distance is approx: 0.0861358679922646
+seconds in the speed function is 4915
+Distance is - 0.0861358679922646
+Calculated Km/hr is: 63
+Approx speed is: 63
+Road is showing as: Undefined
+v4: lat. 52.4503179
+v4: lon. -6.8587385
+v4: speed. 15.24955
+Previous and current locations are: 52.4497448 -6.8589876 1576832838463 52.4503179 -6.8587385 1576832842467
+Distance is approx: 0.06592062657952794
+seconds in the speed function is 4004
+Distance is - 0.06592062657952794
+Calculated Km/hr is: 59
+Approx speed is: 59
+Road is showing as: Undefined
+v4: lat. 52.4510427
+v4: lon. -6.8580743
+v4: speed. 15.138106
+Previous and current locations are: 52.4503179 -6.8587385 1576832842467 52.4510427 -6.8580743 1576832848430
+Distance is approx: 0.09230689545336984
+seconds in the speed function is 5963
+Distance is - 0.09230689545336984
+Calculated Km/hr is: 56
+Approx speed is: 56
+Road is showing as: Undefined
+v4: lat. 52.4515562
+v4: lon. -6.8573335
+v4: speed. 14.930544
+Previous and current locations are: 52.4510427 -6.8580743 1576832848430 52.4515562 -6.8573335 1576832853429
+Distance is approx: 0.07602535127423403
+seconds in the speed function is 4999
+Distance is - 0.07602535127423403
+Calculated Km/hr is: 55
+Approx speed is: 55
+Road is showing as: Undefined
+v4: lat. 52.4521428
+v4: lon. -6.8565612
+v4: speed. 16.77004
+Previous and current locations are: 52.4515562 -6.8573335 1576832853429 52.4521428 -6.8565612 1576832858459
+Distance is approx: 0.083623251462971
+seconds in the speed function is 5030
+Distance is - 0.083623251462971
+Calculated Km/hr is: 60
+Approx speed is: 60
+Road is showing as: Undefined
+v4: lat. 52.4526101
+v4: lon. -6.8559393
+v4: speed. 15.786225
+Previous and current locations are: 52.4521428 -6.8565612 1576832858459 52.4526101 -6.8559393 1576832862442
+Distance is approx: 0.06689970038660557
+seconds in the speed function is 3983
+Distance is - 0.06689970038660557
+Calculated Km/hr is: 60
+Approx speed is: 60
+Road is showing as: Undefined
+v4: lat. 52.4533027
+v4: lon. -6.8551012
+v4: speed. 15.565054
+Previous and current locations are: 52.4526101 -6.8559393 1576832862442 52.4533027 -6.8551012 1576832871521
+Distance is approx: 0.0956849964992198
+seconds in the speed function is 9079
+Distance is - 0.0956849964992198
+Calculated Km/hr is: 38
+Approx speed is: 38
+Road is showing as: Undefined
+v4: lat. 52.4537675
+v4: lon. -6.8543179
+v4: speed. 16.448961
+Previous and current locations are: 52.4533027 -6.8551012 1576832871521 52.4537675 -6.8543179 1576832873446
+Distance is approx: 0.07408076958356546
+seconds in the speed function is 1925
+Distance is - 0.07408076958356546
+Calculated Km/hr is: 139
+Approx speed is: 139
+Road is showing as: Undefined
+v4: lat. 52.4542661
+v4: lon. -6.8533182
+v4: speed. 17.388304
+Previous and current locations are: 52.4537675 -6.8543179 1576832873446 52.4542661 -6.8533182 1576832878449
+Distance is approx: 0.08753272286814856
+seconds in the speed function is 5003
+Distance is - 0.08753272286814856
+Calculated Km/hr is: 63
+Approx speed is: 63
+Road is showing as: Undefined
+v4: lat. 52.4546063
+v4: lon. -6.8524249
+v4: speed. 18.26961
+Previous and current locations are: 52.4542661 -6.8533182 1576832878449 52.4546063 -6.8524249 1576832882680
+Distance is approx: 0.07137597891412625
+seconds in the speed function is 4231
+Distance is - 0.07137597891412625
+Calculated Km/hr is: 61
+Approx speed is: 61
+Road is showing as: Undefined
+v4: lat. 52.4549061
+v4: lon. -6.8507829
+v4: speed. 20.004875
+Previous and current locations are: 52.4546063 -6.8524249 1576832882680 52.4549061 -6.8507829 1576832888448
+Distance is approx: 0.11614440273043448
+seconds in the speed function is 5768
+Distance is - 0.11614440273043448
+Calculated Km/hr is: 72
+Approx speed is: 72
+Road is showing as: Undefined
+v4: lat. 52.4551656
+v4: lon. -6.8492809
+v4: speed. 20.693777
+Previous and current locations are: 52.4549061 -6.8507829 1576832888448 52.4551656 -6.8492809 1576832893544
+Distance is approx: 0.10578239968205716
+seconds in the speed function is 5096
+Distance is - 0.10578239968205716
+Calculated Km/hr is: 75
+Approx speed is: 75
+Road is showing as: Undefined
+v4: lat. 52.4554057
+v4: lon. -6.8481166
+v4: speed. 19.880507
+Previous and current locations are: 52.4551656 -6.8492809 1576832893544 52.4554057 -6.8481166 1576832897454
+Distance is approx: 0.08328395859973478
+seconds in the speed function is 3910
+Distance is - 0.08328395859973478
+Calculated Km/hr is: 77
+Approx speed is: 77
+Road is showing as: Undefined
+v4: lat. 52.4557159
+v4: lon. -6.8465203
+v4: speed. 18.140503
+Previous and current locations are: 52.4554057 -6.8481166 1576832897454 52.4557159 -6.8465203 1576832905061
+Distance is approx: 0.113525763063308
+seconds in the speed function is 7607
+Distance is - 0.113525763063308
+Calculated Km/hr is: 54
+Approx speed is: 54
+Road is showing as: Undefined
+v4: lat. 52.4559647
+v4: lon. -6.8455861
+v4: speed. 16.739
+Previous and current locations are: 52.4557159 -6.8465203 1576832905061 52.4559647 -6.8455861 1576832907537
+Distance is approx: 0.06907872550659308
+seconds in the speed function is 2476
+Distance is - 0.06907872550659308
+Calculated Km/hr is: 100
+Approx speed is: 100
+Road is showing as: Undefined
+v4: lat. 52.4566009
+v4: lon. -6.8444882
+v4: speed. 19.395126
+Previous and current locations are: 52.4559647 -6.8455861 1576832907537 52.4566009 -6.8444882 1576832913436
+Distance is approx: 0.10265291432229941
+seconds in the speed function is 5899
+Distance is - 0.10265291432229941
+Calculated Km/hr is: 63
+Approx speed is: 63
+Road is showing as: Undefined
+v4: lat. 52.4573161
+v4: lon. -6.84362
+v4: speed. 20.207693
+Previous and current locations are: 52.4566009 -6.8444882 1576832913436 52.4573161 -6.84362 1576832919440
+Distance is approx: 0.098914905848154
+seconds in the speed function is 6004
+Distance is - 0.098914905848154
+Calculated Km/hr is: 59
+Approx speed is: 59
+Road is showing as: Undefined
+v4: lat. 52.4579162
+v4: lon. -6.8429571
+v4: speed. 20.09638
+Previous and current locations are: 52.4573161 -6.84362 1576832919440 52.4579162 -6.8429571 1576832922431
+Distance is approx: 0.08043271899625284
+seconds in the speed function is 2991
+Distance is - 0.08043271899625284
+Calculated Km/hr is: 97
+Approx speed is: 97
+Road is showing as: Undefined
+v4: lat. 52.4586967
+v4: lon. -6.8421725
+v4: speed. 19.78044
+Previous and current locations are: 52.4579162 -6.8429571 1576832922431 52.4586967 -6.8421725 1576832928929
+Distance is approx: 0.10177017078970646
+seconds in the speed function is 6498
+Distance is - 0.10177017078970646
+Calculated Km/hr is: 56
+Approx speed is: 56
+Road is showing as: Undefined
+v4: lat. 52.4595365
+v4: lon. -6.8411827
+v4: speed. 19.483528
+Previous and current locations are: 52.4586967 -6.8421725 1576832928929 52.4595365 -6.8411827 1576832934156
+Distance is approx: 0.11496205537365979
+seconds in the speed function is 5227
+Distance is - 0.11496205537365979
+Calculated Km/hr is: 79
+Approx speed is: 79
+Road is showing as: Undefined
+v4: lat. 52.4600551
+v4: lon. -6.8404841
+v4: speed. 19.410109
+Previous and current locations are: 52.4595365 -6.8411827 1576832934156 52.4600551 -6.8404841 1576832937468
+Distance is approx: 0.07459985154611959
+seconds in the speed function is 3312
+Distance is - 0.07459985154611959
+Calculated Km/hr is: 81
+Approx speed is: 81
+Road is showing as: Undefined
+v4: lat. 52.4609133
+v4: lon. -6.8394591
+v4: speed. 19.403362
+Previous and current locations are: 52.4600551 -6.8404841 1576832937468 52.4609133 -6.8394591 1576832943524
+Distance is approx: 0.11801600421911272
+seconds in the speed function is 6056
+Distance is - 0.11801600421911272
+Calculated Km/hr is: 70
+Approx speed is: 70
+Road is showing as: Undefined
+v4: lat. 52.4616542
+v4: lon. -6.8386582
+v4: speed. 19.529655
+Previous and current locations are: 52.4609133 -6.8394591 1576832943524 52.4616542 -6.8386582 1576832949276
+Distance is approx: 0.09864358140904049
+seconds in the speed function is 5752
+Distance is - 0.09864358140904049
+Calculated Km/hr is: 62
+Approx speed is: 62
+Road is showing as: Undefined
+v4: lat. 52.4622633
+v4: lon. -6.8380496
+v4: speed. 20.28586
+Previous and current locations are: 52.4616542 -6.8386582 1576832949276 52.4622633 -6.8380496 1576832952425
+Distance is approx: 0.07928881489805038
+seconds in the speed function is 3149
+Distance is - 0.07928881489805038
+Calculated Km/hr is: 91
+Approx speed is: 91
+Road is showing as: Undefined
+v4: lat. 52.4630759
+v4: lon. -6.8373211
+v4: speed. 21.175856
+Previous and current locations are: 52.4622633 -6.8380496 1576832952425 52.4630759 -6.8373211 1576832958709
+Distance is approx: 0.10295280400644409
+seconds in the speed function is 6284
+Distance is - 0.10295280400644409
+Calculated Km/hr is: 59
+Approx speed is: 59
+Road is showing as: Undefined
+v4: lat. 52.4640748
+v4: lon. -6.8364028
+v4: speed. 20.086971
+Previous and current locations are: 52.4630759 -6.8373211 1576832958709 52.4640748 -6.8364028 1576832963659
+Distance is approx: 0.12730256980538782
+seconds in the speed function is 4950
+Distance is - 0.12730256980538782
+Calculated Km/hr is: 93
+Approx speed is: 93
+Road is showing as: Undefined
+v4: lat. 52.4648638
+v4: lon. -6.8356753
+v4: speed. 19.774834
+Previous and current locations are: 52.4640748 -6.8364028 1576832963659 52.4648638 -6.8356753 1576832968401
+Distance is approx: 0.10062352938610386
+seconds in the speed function is 4742
+Distance is - 0.10062352938610386
+Calculated Km/hr is: 76
+Approx speed is: 76
+Road is showing as: Undefined
+v4: lat. 52.4654685
+v4: lon. -6.8351544
+v4: speed. 18.09722
+Previous and current locations are: 52.4648638 -6.8356753 1576832968401 52.4654685 -6.8351544 1576832973799
+Distance is approx: 0.07593325123591348
+seconds in the speed function is 5398
+Distance is - 0.07593325123591348
+Calculated Km/hr is: 51
+Approx speed is: 51
+Road is showing as: Undefined
+v4: lat. 52.4663353
+v4: lon. -6.8344278
+v4: speed. 18.134096
+Previous and current locations are: 52.4654685 -6.8351544 1576832973799 52.4663353 -6.8344278 1576832979608
+Distance is approx: 0.10821995027526325
+seconds in the speed function is 5809
+Distance is - 0.10821995027526325
+Calculated Km/hr is: 67
+Approx speed is: 67
+Road is showing as: Undefined
+v4: lat. 52.4676143
+v4: lon. -6.8327067
+v4: speed. 18.47564
+Previous and current locations are: 52.4663353 -6.8344278 1576832979608 52.4676143 -6.8327067 1576832993635
+Distance is approx: 0.1838918273004246
+seconds in the speed function is 14027
+Distance is - 0.1838918273004246
+Calculated Km/hr is: 47
+Approx speed is: 47
+v4: lat. 52.4679896
+v4: lon. -6.8317093
+v4: speed. 20.499653
+Previous and current locations are: 52.4676143 -6.8327067 1576832993635 52.4679896 -6.8317093 1576832994028
+Distance is approx: 0.0794095986596039
+seconds in the speed function is 393
+Distance is - 0.0794095986596039
+Calculated Km/hr is: 727
+Approx speed is: 727
+Road is showing as: Undefined
+Road is showing as: Undefined
+v4: lat. 52.4682344
+v4: lon. -6.8297913
+v4: speed. 22.182312
+Previous and current locations are: 52.4679896 -6.8317093 1576832994028 52.4682344 -6.8297913 1576832998521
+Distance is approx: 0.13274025250490265
+seconds in the speed function is 4493
+Distance is - 0.13274025250490265
+Calculated Km/hr is: 106
+Approx speed is: 106
+Road is showing as: Undefined
+v4: lat. 52.4680131
+v4: lon. -6.8285207
+v4: speed. 19.826616
+Previous and current locations are: 52.4682344 -6.8297913 1576832998521 52.4680131 -6.8285207 1576833003441
+Distance is approx: 0.08951489700756335
+seconds in the speed function is 4920
+Distance is - 0.08951489700756335
+Calculated Km/hr is: 65
+Approx speed is: 65
+Road is showing as: Undefined
+v4: lat. 52.4676387
+v4: lon. -6.8268589
+v4: speed. 19.250734
+Previous and current locations are: 52.4680131 -6.8285207 1576833003441 52.4676387 -6.8268589 1576833009995
+Distance is approx: 0.12001722498389324
+seconds in the speed function is 6554
+Distance is - 0.12001722498389324
+Calculated Km/hr is: 66
+Approx speed is: 66
+Road is showing as: Undefined
+v4: lat. 52.4673436
+v4: lon. -6.8259634
+v4: speed. 14.955082
+Previous and current locations are: 52.4676387 -6.8268589 1576833009995 52.4673436 -6.8259634 1576833012398
+Distance is approx: 0.06896506867903304
+seconds in the speed function is 2403
+Distance is - 0.06896506867903304
+Calculated Km/hr is: 103
+Approx speed is: 103
+Road is showing as: Undefined
+v4: lat. 52.4672618
+v4: lon. -6.8249053
+v4: speed. 15.737138
+Previous and current locations are: 52.4673436 -6.8259634 1576833012398 52.4672618 -6.8249053 1576833018759
+Distance is approx: 0.0722485852797565
+seconds in the speed function is 6361
+Distance is - 0.0722485852797565
+Calculated Km/hr is: 41
+Approx speed is: 41
+Road is showing as: Undefined
+v4: lat. 52.4675926
+v4: lon. -6.8238472
+v4: speed. 18.246008
+Previous and current locations are: 52.4672618 -6.8249053 1576833018759 52.4675926 -6.8238472 1576833022832
+Distance is approx: 0.08056045749764963
+seconds in the speed function is 4073
+Distance is - 0.08056045749764963
+Calculated Km/hr is: 71
+Approx speed is: 71
+Road is showing as: Undefined
+v4: lat. 52.4681435
+v4: lon. -6.822754
+v4: speed. 20.22321
+Previous and current locations are: 52.4675926 -6.8238472 1576833022832 52.4681435 -6.822754 1576833027393
+Distance is approx: 0.09610188151902213
+seconds in the speed function is 4561
+Distance is - 0.09610188151902213
+Calculated Km/hr is: 76
+Approx speed is: 76
+Road is showing as: Undefined
+v4: lat. 52.4687396
+v4: lon. -6.8215582
+v4: speed. 21.558792
+Previous and current locations are: 52.4681435 -6.822754 1576833027393 52.4687396 -6.8215582 1576833032385
+Distance is approx: 0.1046610766128646
+seconds in the speed function is 4992
+Distance is - 0.1046610766128646
+Calculated Km/hr is: 75
+Approx speed is: 75
+Road is showing as: Undefined
+v4: lat. 52.4694677
+v4: lon. -6.820104
+v4: speed. 20.416275
+Previous and current locations are: 52.4687396 -6.8215582 1576833032385 52.4694677 -6.820104 1576833039139
+Distance is approx: 0.12750091253782986
+seconds in the speed function is 6754
+Distance is - 0.12750091253782986
+Calculated Km/hr is: 68
+Approx speed is: 68
+Road is showing as: Undefined
+v4: lat. 52.4700773
+v4: lon. -6.818972
+v4: speed. 20.954424
+Previous and current locations are: 52.4694677 -6.820104 1576833039139 52.4700773 -6.818972 1576833043359
+Distance is approx: 0.10233959844315747
+seconds in the speed function is 4220
+Distance is - 0.10233959844315747
+Calculated Km/hr is: 87
+Approx speed is: 87
+Road is showing as: Undefined
+v4: lat. 52.4707388
+v4: lon. -6.8178009
+v4: speed. 22.22529
+Previous and current locations are: 52.4700773 -6.818972 1576833043359 52.4707388 -6.8178009 1576833048500
+Distance is approx: 0.10817563975307658
+seconds in the speed function is 5141
+Distance is - 0.10817563975307658
+Calculated Km/hr is: 76
+Approx speed is: 76
+Road is showing as: Undefined
+v4: lat. 52.4714065
+v4: lon. -6.8167319
+v4: speed. 19.720728
+Previous and current locations are: 52.4707388 -6.8178009 1576833048500 52.4714065 -6.8167319 1576833053342
+Distance is approx: 0.10370338328557407
+seconds in the speed function is 4842
+Distance is - 0.10370338328557407
+Calculated Km/hr is: 77
+Approx speed is: 77
+Road is showing as: Undefined
+v4: lat. 52.4720129
+v4: lon. -6.8157271
+v4: speed. 19.76445
+Previous and current locations are: 52.4714065 -6.8167319 1576833053342 52.4720129 -6.8157271 1576833061742
+Distance is approx: 0.09580124116499547
+seconds in the speed function is 8400
+Distance is - 0.09580124116499547
+Calculated Km/hr is: 41
+Approx speed is: 41
+Road is showing as: Undefined
+v4: lat. 52.4725176
+v4: lon. -6.8148513
+v4: speed. 20.782303
+Previous and current locations are: 52.4720129 -6.8157271 1576833061742 52.4725176 -6.8148513 1576833062802
+Distance is approx: 0.08165681873378364
+seconds in the speed function is 1060
+Distance is - 0.08165681873378364
+Calculated Km/hr is: 277
+Approx speed is: 277
+Road is showing as: Undefined
+v4: lat. 52.4734444
+v4: lon. -6.8132576
+v4: speed. 20.35992
+Previous and current locations are: 52.4725176 -6.8148513 1576833062802 52.4734444 -6.8132576 1576833070991
+Distance is approx: 0.14923322200493636
+seconds in the speed function is 8189
+Distance is - 0.14923322200493636
+Calculated Km/hr is: 66
+Approx speed is: 66
+Road is showing as: Undefined
+v4: lat. 52.4739817
+v4: lon. -6.8123932
+v4: speed. 20.258568
+Previous and current locations are: 52.4734444 -6.8132576 1576833070991 52.4739817 -6.8123932 1576833073366
+Distance is approx: 0.08364544855999897
+seconds in the speed function is 2375
+Distance is - 0.08364544855999897
+Calculated Km/hr is: 127
+Approx speed is: 127
+Road is showing as: Undefined
+v4: lat. 52.4744988
+v4: lon. -6.8115718
+v4: speed. 20.038944
+Previous and current locations are: 52.4739817 -6.8123932 1576833073366 52.4744988 -6.8115718 1576833077323
+Distance is approx: 0.08000413688331788
+seconds in the speed function is 3957
+Distance is - 0.08000413688331788
+Calculated Km/hr is: 73
+Approx speed is: 73
+Road is showing as: Undefined
+v4: lat. 52.4753367
+v4: lon. -6.8104095
+v4: speed. 20.193893
+Previous and current locations are: 52.4744988 -6.8115718 1576833077323 52.4753367 -6.8104095 1576833083682
+Distance is approx: 0.1219691807934325
+seconds in the speed function is 6359
+Distance is - 0.1219691807934325
+Calculated Km/hr is: 69
+Approx speed is: 69
+Road is showing as: Undefined
+v4: lat. 52.4760416
+v4: lon. -6.8094753
+v4: speed. 20.11221
+Previous and current locations are: 52.4753367 -6.8104095 1576833083682 52.4760416 -6.8094753 1576833089799
+Distance is approx: 0.10072741014796992
+seconds in the speed function is 6117
+Distance is - 0.10072741014796992
+Calculated Km/hr is: 59
+Approx speed is: 59
+Road is showing as: Undefined
+v4: lat. 52.4767577
+v4: lon. -6.8085209
+v4: speed. 20.454714
+Previous and current locations are: 52.4760416 -6.8094753 1576833089799 52.4767577 -6.8085209 1576833093356
+Distance is approx: 0.10255542172924802
+seconds in the speed function is 3557
+Distance is - 0.10255542172924802
+Calculated Km/hr is: 104
+Approx speed is: 104
+Road is showing as: Undefined
+v4: lat. 52.4773589
+v4: lon. -6.807795
+v4: speed. 20.527742
+Previous and current locations are: 52.4767577 -6.8085209 1576833093356 52.4773589 -6.807795 1576833097367
+Distance is approx: 0.08297760432792736
+seconds in the speed function is 4011
+Distance is - 0.08297760432792736
+Calculated Km/hr is: 74
+Approx speed is: 74
+Road is showing as: Undefined
+v4: lat. 52.4782054
+v4: lon. -6.8066223
+v4: speed. 20.809217
+Previous and current locations are: 52.4773589 -6.807795 1576833097367 52.4782054 -6.8066223 1576833103351
+Distance is approx: 0.12315080883538274
+seconds in the speed function is 5984
+Distance is - 0.12315080883538274
+Calculated Km/hr is: 74
+Approx speed is: 74
+Road is showing as: Undefined
+v4: lat. 52.4788524
+v4: lon. -6.8055794
+v4: speed. 21.412155
+Previous and current locations are: 52.4782054 -6.8066223 1576833103351 52.4788524 -6.8055794 1576833109245
+Distance is approx: 0.10081357536432896
+seconds in the speed function is 5894
+Distance is - 0.10081357536432896
+Calculated Km/hr is: 62
+Approx speed is: 62
+Road is showing as: Undefined
+v4: lat. 52.4796153
+v4: lon. -6.8046222
+v4: speed. 21.334213
+Previous and current locations are: 52.4788524 -6.8055794 1576833109245 52.4796153 -6.8046222 1576833113383
+Distance is approx: 0.10675837530862038
+seconds in the speed function is 4138
+Distance is - 0.10675837530862038
+Calculated Km/hr is: 93
+Approx speed is: 93
+Road is showing as: Undefined
+v4: lat. 52.4802145
+v4: lon. -6.8038256
+v4: speed. 21.137371
+Previous and current locations are: 52.4796153 -6.8046222 1576833113383 52.4802145 -6.8038256 1576833117358
+Distance is approx: 0.08572581371915122
+seconds in the speed function is 3975
+Distance is - 0.08572581371915122
+Calculated Km/hr is: 78
+Approx speed is: 78
+Road is showing as: Undefined
+v4: lat. 52.4809376
+v4: lon. -6.8028598
+v4: speed. 20.816257
+Previous and current locations are: 52.4802145 -6.8038256 1576833117358 52.4809376 -6.8028598 1576833122749
+Distance is approx: 0.10364249182641086
+seconds in the speed function is 5391
+Distance is - 0.10364249182641086
+Calculated Km/hr is: 69
+Approx speed is: 69
+Road is showing as: Undefined
+v4: lat. 52.481673
+v4: lon. -6.8018283
+v4: speed. 21.617798
+Previous and current locations are: 52.4809376 -6.8028598 1576833122749 52.481673 -6.8018283 1576833127445
+Distance is approx: 0.10754130928497775
+seconds in the speed function is 4696
+Distance is - 0.10754130928497775
+Calculated Km/hr is: 82
+Approx speed is: 82
+Road is showing as: Undefined
+v4: lat. 52.482435
+v4: lon. -6.8007827
+v4: speed. 20.912045
+Previous and current locations are: 52.481673 -6.8018283 1576833127445 52.482435 -6.8007827 1576833132331
+Distance is approx: 0.11041598906424005
+seconds in the speed function is 4886
+Distance is - 0.11041598906424005
+Calculated Km/hr is: 81
+Approx speed is: 81
+Road is showing as: Undefined
+v4: lat. 52.4830705
+v4: lon. -6.7997565
+v4: speed. 20.21945
+Previous and current locations are: 52.482435 -6.8007827 1576833132331 52.4830705 -6.7997565 1576833138329
+Distance is approx: 0.09910418183150314
+seconds in the speed function is 5998
+Distance is - 0.09910418183150314
+Calculated Km/hr is: 59
+Approx speed is: 59
+Road is showing as: Undefined
+v4: lat. 52.4837297
+v4: lon. -6.7987031
+v4: speed. 20.805508
+Previous and current locations are: 52.4830705 -6.7997565 1576833138329 52.4837297 -6.7987031 1576833142394
+Distance is approx: 0.10227516356533654
+seconds in the speed function is 4065
+Distance is - 0.10227516356533654
+Calculated Km/hr is: 91
+Approx speed is: 91
+Road is showing as: Undefined
+v4: lat. 52.4843579
+v4: lon. -6.7976033
+v4: speed. 21.092878
+Previous and current locations are: 52.4837297 -6.7987031 1576833142394 52.4843579 -6.7976033 1576833148106
+Distance is approx: 0.10210160853726608
+seconds in the speed function is 5712
+Distance is - 0.10210160853726608
+Calculated Km/hr is: 64
+Approx speed is: 64
+Road is showing as: Undefined
+v4: lat. 52.4848349
+v4: lon. -6.7963038
+v4: speed. 21.117384
+Previous and current locations are: 52.4843579 -6.7976033 1576833148106 52.4848349 -6.7963038 1576833153149
+Distance is approx: 0.10273961369316013
+seconds in the speed function is 5043
+Distance is - 0.10273961369316013
+Calculated Km/hr is: 73
+Approx speed is: 73
+Road is showing as: Undefined
+v4: lat. 52.4852926
+v4: lon. -6.7949272
+v4: speed. 20.890575
+Previous and current locations are: 52.4848349 -6.7963038 1576833153149 52.4852926 -6.7949272 1576833158279
+Distance is approx: 0.10619893655828909
+seconds in the speed function is 5130
+Distance is - 0.10619893655828909
+Calculated Km/hr is: 75
+Approx speed is: 75
+Road is showing as: Undefined
+v4: lat. 52.485674
+v4: lon. -6.7935021
+v4: speed. 21.22463
+Previous and current locations are: 52.4852926 -6.7949272 1576833158279 52.485674 -6.7935021 1576833162378
+Distance is approx: 0.10540158627926838
+seconds in the speed function is 4099
+Distance is - 0.10540158627926838
+Calculated Km/hr is: 93
+Approx speed is: 93
+Road is showing as: Undefined
+v4: lat. 52.4859978
+v4: lon. -6.7920162
+v4: speed. 21.478983
+Previous and current locations are: 52.485674 -6.7935021 1576833162378 52.4859978 -6.7920162 1576833167606
+Distance is approx: 0.10685776809415254
+seconds in the speed function is 5228
+Distance is - 0.10685776809415254
+Calculated Km/hr is: 74
+Approx speed is: 74
+Road is showing as: Undefined
+v4: lat. 52.4864435
+v4: lon. -6.7905912
+v4: speed. 22.06746
+Previous and current locations are: 52.4859978 -6.7920162 1576833167606 52.4864435 -6.7905912 1576833172320
+Distance is approx: 0.10846831964944659
+seconds in the speed function is 4714
+Distance is - 0.10846831964944659
+Calculated Km/hr is: 83
+Approx speed is: 83
+Road is showing as: Undefined
+v4: lat. 52.486976
+v4: lon. -6.7891937
+v4: speed. 22.46578
+Previous and current locations are: 52.4864435 -6.7905912 1576833172320 52.486976 -6.7891937 1576833178179
+Distance is approx: 0.11162013266894873
+seconds in the speed function is 5859
+Distance is - 0.11162013266894873
+Calculated Km/hr is: 69
+Approx speed is: 69
+Road is showing as: Undefined
+v4: lat. 52.4875629
+v4: lon. -6.7877902
+v4: speed. 22.095642
+Previous and current locations are: 52.486976 -6.7891937 1576833178179 52.4875629 -6.7877902 1576833183241
+Distance is approx: 0.11527671224691176
+seconds in the speed function is 5062
+Distance is - 0.11527671224691176
+Calculated Km/hr is: 82
+Approx speed is: 82
+Road is showing as: Undefined
+v4: lat. 52.4883104
+v4: lon. -6.7862668
+v4: speed. 21.195177
+Previous and current locations are: 52.4875629 -6.7877902 1576833183241 52.4883104 -6.7862668 1576833188669
+Distance is approx: 0.13246385280219236
+seconds in the speed function is 5428
+Distance is - 0.13246385280219236
+Calculated Km/hr is: 88
+Approx speed is: 88
+Road is showing as: Undefined
+v4: lat. 52.4890957
+v4: lon. -6.7848712
+v4: speed. 20.88666
+Previous and current locations are: 52.4883104 -6.7862668 1576833188669 52.4890957 -6.7848712 1576833195628
+Distance is approx: 0.12865677914336596
+seconds in the speed function is 6959
+Distance is - 0.12865677914336596
+Calculated Km/hr is: 67
+Approx speed is: 67
+Road is showing as: Undefined
+v4: lat. 52.4896643
+v4: lon. -6.7840447
+v4: speed. 20.715273
+Previous and current locations are: 52.4890957 -6.7848712 1576833195628 52.4896643 -6.7840447 1576833198347
+Distance is approx: 0.08442945127120349
+seconds in the speed function is 2719
+Distance is - 0.08442945127120349
+Calculated Km/hr is: 112
+Approx speed is: 112
+Road is showing as: Undefined
+v4: lat. 52.4903932
+v4: lon. -6.7830675
+v4: speed. 20.702026
+Previous and current locations are: 52.4896643 -6.7840447 1576833198347 52.4903932 -6.7830675 1576833203339
+Distance is approx: 0.10462107318823119
+seconds in the speed function is 4992
+Distance is - 0.10462107318823119
+Calculated Km/hr is: 75
+Approx speed is: 75
+Road is showing as: Undefined
+v4: lat. 52.4911349
+v4: lon. -6.7821972
+v4: speed. 20.30585
+Previous and current locations are: 52.4903932 -6.7830675 1576833203339 52.4911349 -6.7821972 1576833208325
+Distance is approx: 0.10135526084617427
+seconds in the speed function is 4986
+Distance is - 0.10135526084617427
+Calculated Km/hr is: 73
+Approx speed is: 73
+Road is showing as: Undefined
+v4: lat. 52.4917464
+v4: lon. -6.7815404
+v4: speed. 20.159117
+Previous and current locations are: 52.4911349 -6.7821972 1576833208325 52.4917464 -6.7815404 1576833212455
+Distance is approx: 0.081241628242464
+seconds in the speed function is 4130
+Distance is - 0.081241628242464
+Calculated Km/hr is: 71
+Approx speed is: 71
+Road is showing as: Undefined
+v4: lat. 52.4924209
+v4: lon. -6.7807528
+v4: speed. 13.732573
+Previous and current locations are: 52.4917464 -6.7815404 1576833212455 52.4924209 -6.7807528 1576833219578
+Distance is approx: 0.09202005467192592
+seconds in the speed function is 7123
+Distance is - 0.09202005467192592
+Calculated Km/hr is: 47
+Approx speed is: 47
+Road is showing as: Undefined
+v4: lat. 52.4927957
+v4: lon. -6.7802415
+v4: speed. 7.567234
+Previous and current locations are: 52.4924209 -6.7807528 1576833219578 52.4927957 -6.7802415 1576833224390
+Distance is approx: 0.05417459834552896
+seconds in the speed function is 4812
+Distance is - 0.05417459834552896
+Calculated Km/hr is: 41
+Approx speed is: 41
+Road is showing as: Undefined
+v4: lat. 52.4929868
+v4: lon. -6.7803714
+v4: speed. 6.608187
+Previous and current locations are: 52.4927957 -6.7802415 1576833224390 52.4929868 -6.7803714 1576833229659
+Distance is approx: 0.022996369414680373
+seconds in the speed function is 5269
+Distance is - 0.022996369414680373
+Calculated Km/hr is: 16
+Approx speed is: 16
+Road is showing as: Undefined
+v4: lat. 52.4932828
+v4: lon. -6.7805809
+v4: speed. 8.667242
+Previous and current locations are: 52.4929868 -6.7803714 1576833229659 52.4932828 -6.7805809 1576833233362
+Distance is approx: 0.03583807961049898
+seconds in the speed function is 3703
+Distance is - 0.03583807961049898
+Calculated Km/hr is: 35
+Approx speed is: 35
+Road is showing as: Undefined
+v4: lat. 52.4936776
+v4: lon. -6.7808081
+v4: speed. 7.89014
+Previous and current locations are: 52.4932828 -6.7805809 1576833233362 52.4936776 -6.7808081 1576833239365
+Distance is approx: 0.046514314309452236
+seconds in the speed function is 6003
+Distance is - 0.046514314309452236
+Calculated Km/hr is: 28
+Approx speed is: 28
+Road is showing as: Undefined
+v4: lat. 52.4938456
+v4: lon. -6.7812134
+v4: speed. 8.7950325
+Previous and current locations are: 52.4936776 -6.7808081 1576833239365 52.4938456 -6.7812134 1576833243358
+Distance is approx: 0.033192920556990795
+seconds in the speed function is 3993
+Distance is - 0.033192920556990795
+Calculated Km/hr is: 30
+Approx speed is: 30
+Road is showing as: Undefined
+v4: lat. 52.4940857
+v4: lon. -6.7817473
+v4: speed. 8.927112
+Previous and current locations are: 52.4938456 -6.7812134 1576833243358 52.4940857 -6.7817473 1576833249475
+Distance is approx: 0.04493403511453979
+seconds in the speed function is 6117
+Distance is - 0.04493403511453979
+Calculated Km/hr is: 26
+Approx speed is: 26
+Road is showing as: Undefined
+v4: lat. 52.4944159
+v4: lon. -6.7823359
+v4: speed. 8.391835
+Previous and current locations are: 52.4940857 -6.7817473 1576833249475 52.4944159 -6.7823359 1576833254385
+Distance is approx: 0.05418216665718699
+seconds in the speed function is 4910
+Distance is - 0.05418216665718699
+Calculated Km/hr is: 40
+Approx speed is: 40
+Road is showing as: Undefined
+v4: lat. 52.4946403
+v4: lon. -6.7826989
+v4: speed. 8.528833
+Previous and current locations are: 52.4944159 -6.7823359 1576833254385 52.4946403 -6.7826989 1576833258366
+Distance is approx: 0.035020305478492636
+seconds in the speed function is 3981
+Distance is - 0.035020305478492636
+Calculated Km/hr is: 32
+Approx speed is: 32
+Road is showing as: Undefined
+v4: lat. 52.4950107
+v4: lon. -6.7830526
+v4: speed. 9.755561
+Previous and current locations are: 52.4946403 -6.7826989 1576833258366 52.4950107 -6.7830526 1576833263390
+Distance is approx: 0.047639150094127856
+seconds in the speed function is 5024
+Distance is - 0.047639150094127856
+Calculated Km/hr is: 34
+Approx speed is: 34
+Road is showing as: Undefined
+v4: lat. 52.4954691
+v4: lon. -6.7833746
+v4: speed. 8.612267
+Previous and current locations are: 52.4950107 -6.7830526 1576833263390 52.4954691 -6.7833746 1576833269461
+Distance is approx: 0.055434832412783686
+seconds in the speed function is 6071
+Distance is - 0.055434832412783686
+Calculated Km/hr is: 33
+Approx speed is: 33
+Road is showing as: Undefined
+v4: lat. 52.4957268
+v4: lon. -6.7836251
+v4: speed. 8.660394
+Previous and current locations are: 52.4954691 -6.7833746 1576833269461 52.4957268 -6.7836251 1576833274634
+Distance is approx: 0.03329552433450312
+seconds in the speed function is 5173
+Distance is - 0.03329552433450312
+Calculated Km/hr is: 23
+Approx speed is: 23
+Road is showing as: Undefined
+v4: lat. 52.4959375
+v4: lon. -6.7841112
+v4: speed. 8.10705
+Previous and current locations are: 52.4957268 -6.7836251 1576833274634 52.4959375 -6.7841112 1576833278354
+Distance is approx: 0.040394113464634854
+seconds in the speed function is 3720
+Distance is - 0.040394113464634854
+Calculated Km/hr is: 39
+Approx speed is: 39
+Road is showing as: Undefined
+v4: lat. 52.4961686
+v4: lon. -6.7847035
+v4: speed. 9.134527
+Previous and current locations are: 52.4959375 -6.7841112 1576833278354 52.4961686 -6.7847035 1576833283468
+Distance is approx: 0.04762250032512852
+seconds in the speed function is 5114
+Distance is - 0.04762250032512852
+Calculated Km/hr is: 34
+Approx speed is: 34
+Road is showing as: Undefined
+v4: lat. 52.4965272
+v4: lon. -6.7853626
+v4: speed. 9.500105
+Previous and current locations are: 52.4961686 -6.7847035 1576833283468 52.4965272 -6.7853626 1576833289377
+Distance is approx: 0.05983716712642522
+seconds in the speed function is 5909
+Distance is - 0.05983716712642522
+Calculated Km/hr is: 36
+Approx speed is: 36
+Road is showing as: Undefined
+v4: lat. 52.4967984
+v4: lon. -6.7858871
+v4: speed. 9.691699
+Previous and current locations are: 52.4965272 -6.7853626 1576833289377 52.4967984 -6.7858871 1576833294349
+Distance is approx: 0.046582268621088135
+seconds in the speed function is 4972
+Distance is - 0.046582268621088135
+Calculated Km/hr is: 34
+Approx speed is: 34
+Road is showing as: Undefined
+v4: lat. 52.4970578
+v4: lon. -6.7864254
+v4: speed. 9.446267
+Previous and current locations are: 52.4967984 -6.7858871 1576833294349 52.4970578 -6.7864254 1576833299308
+Distance is approx: 0.046472446882452716
+seconds in the speed function is 4959
+Distance is - 0.046472446882452716
+Calculated Km/hr is: 34
+Approx speed is: 34
+Road is showing as: Undefined
+v4: lat. 52.4972402
+v4: lon. -6.7868627
+v4: speed. 9.368798
+Previous and current locations are: 52.4970578 -6.7864254 1576833299308 52.4972402 -6.7868627 1576833303410
+Distance is approx: 0.035882937147541503
+seconds in the speed function is 4102
+Distance is - 0.035882937147541503
+Calculated Km/hr is: 31
+Approx speed is: 31
+Road is showing as: Undefined
+v4: lat. 52.4975055
+v4: lon. -6.7873738
+v4: speed. 9.024994
+Previous and current locations are: 52.4972402 -6.7868627 1576833303410 52.4975055 -6.7873738 1576833308411
+Distance is approx: 0.04546597309126542
+seconds in the speed function is 5001
+Distance is - 0.04546597309126542
+Calculated Km/hr is: 33
+Approx speed is: 33
+Road is showing as: Undefined
+v4: lat. 52.4977477
+v4: lon. -6.7880204
+v4: speed. 6.9529805
+Previous and current locations are: 52.4975055 -6.7873738 1576833308411 52.4977477 -6.7880204 1576833314317
+Distance is approx: 0.05139059118501908
+seconds in the speed function is 5906
+Distance is - 0.05139059118501908
+Calculated Km/hr is: 31
+Approx speed is: 31
+Road is showing as: Undefined
+v4: lat. 52.4979009
+v4: lon. -6.7882591
+v4: speed. 5.9355927
+Previous and current locations are: 52.4977477 -6.7880204 1576833314317 52.4979009 -6.7882591 1576833318342
+Distance is approx: 0.023478809022998016
+seconds in the speed function is 4025
+Distance is - 0.023478809022998016
+Calculated Km/hr is: 21
+Approx speed is: 21
+Road is showing as: Undefined
+v4: lat. 52.4980458
+v4: lon. -6.7888616
+v4: speed. 9.246681
+Previous and current locations are: 52.4979009 -6.7882591 1576833318342 52.4980458 -6.7888616 1576833324349
+Distance is approx: 0.04385090795635107
+seconds in the speed function is 6007
+Distance is - 0.04385090795635107
+Calculated Km/hr is: 26
+Approx speed is: 26
+Road is showing as: Undefined
+v4: lat. 52.4980629
+v4: lon. -6.7895773
+v4: speed. 10.376416
+Previous and current locations are: 52.4980458 -6.7888616 1576833324349 52.4980629 -6.7895773 1576833329351
+Distance is approx: 0.04848368085097229
+seconds in the speed function is 5002
+Distance is - 0.04848368085097229
+Calculated Km/hr is: 35
+Approx speed is: 35
+Road is showing as: Undefined
+v4: lat. 52.4980214
+v4: lon. -6.7903607
+v4: speed. 9.994116
+Previous and current locations are: 52.4980629 -6.7895773 1576833329351 52.4980214 -6.7903607 1576833334383
+Distance is approx: 0.05322948148878236
+seconds in the speed function is 5032
+Distance is - 0.05322948148878236
+Calculated Km/hr is: 38
+Approx speed is: 38
+Road is showing as: Undefined
+v4: lat. 52.4980109
+v4: lon. -6.7910791
+v4: speed. 9.274665
+Previous and current locations are: 52.4980214 -6.7903607 1576833334383 52.4980109 -6.7910791 1576833339548
+Distance is approx: 0.048643362257334004
+seconds in the speed function is 5165
+Distance is - 0.048643362257334004
+Calculated Km/hr is: 34
+Approx speed is: 34
+Road is showing as: Undefined
+v4: lat. 52.4979676
+v4: lon. -6.7916108
+v4: speed. 8.904696
+Previous and current locations are: 52.4980109 -6.7910791 1576833339548 52.4979676 -6.7916108 1576833343326
+Distance is approx: 0.036311966137829096
+seconds in the speed function is 3778
+Distance is - 0.036311966137829096
+Calculated Km/hr is: 35
+Approx speed is: 35
+Road is showing as: Undefined
+v4: lat. 52.497885
+v4: lon. -6.792278
+v4: speed. 9.10381
+Previous and current locations are: 52.4979676 -6.7916108 1576833343326 52.497885 -6.792278 1576833349086
+Distance is approx: 0.04608786756852559
+seconds in the speed function is 5760
+Distance is - 0.04608786756852559
+Calculated Km/hr is: 29
+Approx speed is: 29
+Road is showing as: Undefined
+v4: lat. 52.4978549
+v4: lon. -6.7930627
+v4: speed. 11.394152
+Previous and current locations are: 52.497885 -6.792278 1576833349086 52.4978549 -6.7930627 1576833353334
+Distance is approx: 0.05322253966496945
+seconds in the speed function is 4248
+Distance is - 0.05322253966496945
+Calculated Km/hr is: 45
+Approx speed is: 45
+Road is showing as: Undefined
+v4: lat. 52.4978875
+v4: lon. -6.793931
+v4: speed. 6.323632
+Previous and current locations are: 52.4978549 -6.7930627 1576833353334 52.4978875 -6.793931 1576833359332
+Distance is approx: 0.05888797386114074
+seconds in the speed function is 5998
+Distance is - 0.05888797386114074
+Calculated Km/hr is: 35
+Approx speed is: 35
+Road is showing as: Undefined
+v4: lat. 52.4979258
+v4: lon. -6.7941213
+v4: speed. 1.7830411
+Previous and current locations are: 52.4978875 -6.793931 1576833359332 52.4979258 -6.7941213 1576833363401
+Distance is approx: 0.013567458030731963
+seconds in the speed function is 4069
+Distance is - 0.013567458030731963
+Calculated Km/hr is: 12
+Approx speed is: 12
+Road is showing as: Undefined
+v4: lat. 52.4980024
+v4: lon. -6.7940472
+v4: speed. 3.284764
+Previous and current locations are: 52.4979258 -6.7941213 1576833363401 52.4980024 -6.7940472 1576833369159
+Distance is approx: 0.009883743453080455
+seconds in the speed function is 5758
+Distance is - 0.009883743453080455
+Calculated Km/hr is: 6
+Approx speed is: 6
+Road is showing as: Undefined
+v4: lat. 52.4982558
+v4: lon. -6.7937502
+v4: speed. 7.962876
+Previous and current locations are: 52.4980024 -6.7940472 1576833369159 52.4982558 -6.7937502 1576833373363
+Distance is approx: 0.03461237444575449
+seconds in the speed function is 4204
+Distance is - 0.03461237444575449
+Calculated Km/hr is: 30
+Approx speed is: 30
+Road is showing as: Undefined
+v4: lat. 52.4984884
+v4: lon. -6.7934432
+v4: speed. 3.1942277
+Previous and current locations are: 52.4982558 -6.7937502 1576833373363 52.4984884 -6.7934432 1576833378332
+Distance is approx: 0.0331773056936283
+seconds in the speed function is 4969
+Distance is - 0.0331773056936283
+Calculated Km/hr is: 24
+Approx speed is: 24
+Road is showing as: Undefined
+v4: lat. 52.49858
+v4: lon. -6.7934758
+v4: speed. 2.558673
+Previous and current locations are: 52.4984884 -6.7934432 1576833378332 52.49858 -6.7934758 1576833383343
+Distance is approx: 0.01042164761887523
+seconds in the speed function is 5011
+Distance is - 0.01042164761887523
+Calculated Km/hr is: 7
+Approx speed is: 7
+Road is showing as: Undefined
+v4: lat. 52.4986749
+v4: lon. -6.793608
+v4: speed. 3.7033482
+Previous and current locations are: 52.49858 -6.7934758 1576833383343 52.4986749 -6.793608 1576833388453
+Distance is approx: 0.013835807955987137
+seconds in the speed function is 5110
+Distance is - 0.013835807955987137
+Calculated Km/hr is: 10
+Approx speed is: 10
+Road is showing as: Undefined
+v4: lat. 52.4987875
+v4: lon. -6.7935258
+v4: speed. 2.9324605
+Previous and current locations are: 52.4986749 -6.793608 1576833388453 52.4987875 -6.7935258 1576833393331
+Distance is approx: 0.013700645619360598
+seconds in the speed function is 4878
+Distance is - 0.013700645619360598
+Calculated Km/hr is: 10
+Approx speed is: 10
+Road is showing as: Undefined
+v4: lat. 52.4987581
+v4: lon. -6.7934025
+v4: speed. 2.1602237
+Previous and current locations are: 52.4987875 -6.7935258 1576833393331 52.4987581 -6.7934025 1576833398343
+Distance is approx: 0.00896329100901817
+seconds in the speed function is 5012
+Distance is - 0.00896329100901817
+Calculated Km/hr is: 6
+Approx speed is: 6
+Road is showing as: Undefined
+v4: lat. 52.4988007
+v4: lon. -6.7933539
+v4: speed. 0.42515674
+Previous and current locations are: 52.4987581 -6.7934025 1576833398343 52.4988007 -6.7933539 1576833402338
+Distance is approx: 0.005766602369817979
+seconds in the speed function is 3995
+Distance is - 0.005766602369817979
+Calculated Km/hr is: 5
+Approx speed is: 5
+Road is showing as: Undefined
+

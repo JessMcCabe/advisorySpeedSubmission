@@ -1,0 +1,78 @@
+Previous and current locations are: 53.2363442 -6.7270878 1576927501373 53.2358661 -6.7274096 1576927507324
+Distance is approx: 0.0573112788640949
+seconds in the speed function is 5951
+Distance is - 0.0573112788640949
+Calculated Km/hr is: 35
+Approx speed is: 35
+Road is showing as: Undefined
+
+
+when put in web actually returns 
+
+{
+   "documentation" : "https://opencagedata.com/api",
+   "licenses" : [
+      {
+         "name" : "see attribution guide",
+         "url" : "https://opencagedata.com/credits"
+      }
+   ],
+   "rate" : {
+      "limit" : 2500,
+      "remaining" : 2249,
+      "reset" : 1576972800
+   },
+   "results" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 53.236107,
+               "lng" : -6.7273585
+            },
+            "southwest" : {
+               "lat" : 53.235907,
+               "lng" : -6.7275585
+            }
+         },
+         "components" : {
+            "ISO_3166-1_alpha-2" : "IE",
+            "ISO_3166-1_alpha-3" : "IRL",
+            "_type" : "fuel",
+            "city_district" : "Caragh ED",
+            "continent" : "Europe",
+            "country" : "Ireland",
+            "country_code" : "ie",
+            "county" : "County Kildare",
+            "county_code" : "KE",
+            "fuel" : "Apple Green",
+            "locality" : "Carragh",
+            "political_union" : "European Union",
+            "postcode" : "W91 E6EP",
+            "region" : "The Municipal District of Kildare \u2014 Newbridge",
+            "road" : "R409",
+            "state" : "Leinster",
+            "state_code" : "L"
+         },
+         "confidence" : 9,
+         "formatted" : "Apple Green, R409, Caragh ED, Carragh, County Kildare, Ireland",
+         "geometry" : {
+            "lat" : 53.236007,
+            "lng" : -6.7274585
+         }
+      }
+   ],
+   "status" : {
+      "code" : 200,
+      "message" : "OK"
+   },
+   "stay_informed" : {
+      "blog" : "https://blog.opencagedata.com",
+      "twitter" : "https://twitter.com/opencagedata"
+   },
+   "thanks" : "For using an OpenCage API",
+   "timestamp" : {
+      "created_http" : "Sat, 21 Dec 2019 12:39:11 GMT",
+      "created_unix" : 1576931951
+   },
+   "total_results" : 1
+}

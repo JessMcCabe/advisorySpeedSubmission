@@ -1,0 +1,443 @@
+{
+   "plus_code" : {
+      "compound_code" : "F6XM+H3 Rathnure Upper, County Wexford, Ireland",
+      "global_code" : "9C4MF6XM+H3"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Saint Annes Terrace",
+               "short_name" : "St Annes Terrace",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rathnure Upper",
+               "short_name" : "Rathnure Upper",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Rathnure",
+               "short_name" : "Rathnure",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "County Wexford",
+               "short_name" : "County Wexford",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "Y21 C3N0",
+               "short_name" : "Y21 C3N0",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1 St Annes Terrace, Rathnure Upper, Rathnure, Co. Wexford, Y21 C3N0, Ireland",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.50021479999999,
+               "lng" : -6.768080899999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.50156378029149,
+                  "lng" : -6.766731919708497
+               },
+               "southwest" : {
+                  "lat" : 52.49886581970849,
+                  "lng" : -6.769429880291502
+               }
+            }
+         },
+         "place_id" : "ChIJq7Pj8sisQkgRLS5eLz4yAGg",
+         "plus_code" : {
+            "compound_code" : "G62J+3Q Rathnure Upper, County Wexford, Ireland",
+            "global_code" : "9C4MG62J+3Q"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rathnure (Conrans Pub)",
+               "short_name" : "Rathnure (Conrans Pub)",
+               "types" : [ "establishment", "point_of_interest", "transit_station" ]
+            },
+            {
+               "long_name" : "Rathnure Upper",
+               "short_name" : "Rathnure Upper",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "County Wexford",
+               "short_name" : "County Wexford",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rathnure (Conrans Pub), Rathnure Upper, Co. Wexford, Ireland",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.5001743,
+               "lng" : -6.7685944
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.5015232802915,
+                  "lng" : -6.767245419708498
+               },
+               "southwest" : {
+                  "lat" : 52.4988253197085,
+                  "lng" : -6.769943380291502
+               }
+            }
+         },
+         "place_id" : "ChIJdUzr7MisQkgR-9ScSFS9mLY",
+         "plus_code" : {
+            "compound_code" : "G62J+3H Rathnure Upper, County Wexford, Ireland",
+            "global_code" : "9C4MG62J+3H"
+         },
+         "types" : [ "establishment", "point_of_interest", "transit_station" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Saint Annes Terrace",
+               "short_name" : "St Annes Terrace",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rathnure Upper",
+               "short_name" : "Rathnure Upper",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "County Wexford",
+               "short_name" : "County Wexford",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "1 St Annes Terrace, Rathnure Upper, Co. Wexford, Ireland",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.499601,
+               "lng" : -6.7686518
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.50094998029149,
+                  "lng" : -6.767302819708497
+               },
+               "southwest" : {
+                  "lat" : 52.4982520197085,
+                  "lng" : -6.770000780291502
+               }
+            }
+         },
+         "place_id" : "EigxIFN0IEFubmVzIFRlcnJhY2UsIENvLiBXZXhmb3JkLCBJcmVsYW5kIhoSGAoUChIJ-ycImcisQkgRdzkGD7B1tQYQAQ",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint Annes Terrace",
+               "short_name" : "R731",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rathnure Upper",
+               "short_name" : "Rathnure Upper",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "County Wexford",
+               "short_name" : "County Wexford",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "St Annes Terrace, Rathnure Upper, Co. Wexford, Ireland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.4996293,
+                  "lng" : -6.7685951
+               },
+               "southwest" : {
+                  "lat" : 52.49883999999999,
+                  "lng" : -6.7686534
+               }
+            },
+            "location" : {
+               "lat" : 52.49923279999999,
+               "lng" : -6.7686042
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.50058363029149,
+                  "lng" : -6.767275269708498
+               },
+               "southwest" : {
+                  "lat" : 52.4978856697085,
+                  "lng" : -6.769973230291503
+               }
+            }
+         },
+         "place_id" : "ChIJ-ycImcisQkgRdjkGD7B1tQY",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rathnure Upper",
+               "short_name" : "Rathnure Upper",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "County Wexford",
+               "short_name" : "County Wexford",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rathnure Upper, Co. Wexford, Ireland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.5042669,
+                  "lng" : -6.759431699999999
+               },
+               "southwest" : {
+                  "lat" : 52.4874986,
+                  "lng" : -6.782940699999999
+               }
+            },
+            "location" : {
+               "lat" : 52.4956038,
+               "lng" : -6.769938499999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.5042669,
+                  "lng" : -6.759431699999999
+               },
+               "southwest" : {
+                  "lat" : 52.4874986,
+                  "lng" : -6.782940699999999
+               }
+            }
+         },
+         "place_id" : "ChIJWZso6MOsQkgRcn_HGajHACY",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wexford",
+               "short_name" : "Wexford",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "County Wexford",
+               "short_name" : "County Wexford",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wexford, Co. Wexford, Ireland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.79747,
+                  "lng" : -6.1407792
+               },
+               "southwest" : {
+                  "lat" : 52.1092114,
+                  "lng" : -7.018212
+               }
+            },
+            "location" : {
+               "lat" : 52.4793603,
+               "lng" : -6.5839913
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.79747,
+                  "lng" : -6.1407792
+               },
+               "southwest" : {
+                  "lat" : 52.1092114,
+                  "lng" : -7.018212
+               }
+            }
+         },
+         "place_id" : "ChIJ8QOaQbwBaEgR0HcqLqfHAAQ",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "County Wexford",
+               "short_name" : "County Wexford",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Co. Wexford, Ireland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.79747,
+                  "lng" : -6.1407792
+               },
+               "southwest" : {
+                  "lat" : 52.1092114,
+                  "lng" : -7.018212
+               }
+            },
+            "location" : {
+               "lat" : 52.5051766,
+               "lng" : -6.5738635
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.79747,
+                  "lng" : -6.1407792
+               },
+               "southwest" : {
+                  "lat" : 52.1092114,
+                  "lng" : -7.018212
+               }
+            }
+         },
+         "place_id" : "ChIJ8QOaQbwBaEgRQAKA8azHABg",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ireland",
+               "short_name" : "Ireland",
+               "types" : [ "establishment", "natural_feature" ]
+            }
+         ],
+         "formatted_address" : "Ireland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.38294149999999,
+                  "lng" : -5.431909999999999
+               },
+               "southwest" : {
+                  "lat" : 51.4475448,
+                  "lng" : -10.4800237
+               }
+            },
+            "location" : {
+               "lat" : 53.1423672,
+               "lng" : -7.692053599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.38294149999999,
+                  "lng" : -5.431909999999999
+               },
+               "southwest" : {
+                  "lat" : 51.4475448,
+                  "lng" : -10.4800237
+               }
+            }
+         },
+         "place_id" : "ChIJj2lzXZ5hXkgRjcZqTUQ5m8o",
+         "types" : [ "establishment", "natural_feature" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ireland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.4602,
+                  "lng" : -5.668900100000001
+               },
+               "southwest" : {
+                  "lat" : 51.3066,
+                  "lng" : -10.7666001
+               }
+            },
+            "location" : {
+               "lat" : 53.41291,
+               "lng" : -8.24389
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.4602,
+                  "lng" : -5.668900100000001
+               },
+               "southwest" : {
+                  "lat" : 51.3066,
+                  "lng" : -10.7666001
+               }
+            }
+         },
+         "place_id" : "ChIJ-ydAXOS6WUgRCPTbzjQSfM8",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
